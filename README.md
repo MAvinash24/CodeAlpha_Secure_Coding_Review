@@ -33,16 +33,21 @@ pip install tk
   git clone https://github.com/MAvinash24/CodeAlpha_Secure_Coding_Review.git
   ```
 
-2. **Run the tool**:
+2.Navigate to the project folder
+```sh
+cd CodeAlpha_Secure_Coding_Review
+```
+
+3. **Run the tool**:
    ```sh
    python secure_code_review.py
    ```
-3. Click **📂 Browse Python File** to select a script for analysis.
+4. Click **📂 Browse Python File** to select a script for analysis.
 
 ### Note:
 For this, I included some test scripts in this repository. You can use them as test cases.
 
-4. The tool scans the file and displays **security issues** with recommendations.
+5. The tool scans the file and displays **security issues** with recommendations.
 
 ## 📜 Example Output
 ```
